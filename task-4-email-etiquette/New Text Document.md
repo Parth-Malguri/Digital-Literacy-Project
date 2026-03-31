@@ -1,0 +1,5 @@
+A common but high-stakes scenario involves "Reply-All" blunders in corporate or academic settings. Imagine a student sending a frustrated, sarcastic email to a TA about a difficult assignment, but accidentally hitting "Reply-All," sending the critique to the entire class and the lead professor.
+
+This creates an immediate "digital fire": the student’s reputation is damaged, the TA feels publicly undermined, and the professor may view the student as unprofessional or hostile. This lapse in digital etiquette can lead to formal disciplinary meetings or a permanent strain on academic references.
+
+To prevent this, the student should have followed the "24-hour rule": never send an email while angry. Waiting allowed for a calmer, more objective tone. Additionally, they should have double-checked the recipient list before clicking send. Using a "delayed send" feature or simply moving the critique to a private, face-to-face office hour would have resolved the issue constructively without public fallout.

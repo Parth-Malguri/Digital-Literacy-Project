@@ -1,0 +1,6 @@
+Category,The Do’s (Best Practices),The Don’ts (Common Pitfalls)
+Privacy & Security,Do audit your privacy settings regularly to control who can see your tagged photos and posts.,"Don’t post your physical location in real-time or share photos of your ID, dorm key, or class schedule."
+Professionalism,"Do use a high-quality, professional-looking headshot for platforms like LinkedIn.","Don’t post content depicting illegal activities, excessive partying, or unprofessional behavior."
+Engagement,"Do engage with industry leaders, professors, and university organizations to build a ""clean"" algorithm.","Don’t engage in ""flame wars"" or heated public arguments that could be screenshotted and taken out of context."
+Content Quality,"Do share your achievements, volunteer work, and projects that showcase your skills and interests.","Don’t vent about your professors, internship supervisors, or current employers online."
+Digital Hygiene,Do Google yourself occasionally to see what a potential employer might find in search results.,"Don’t forget that ""deleted"" content often lives on through archives or others' screenshots."
