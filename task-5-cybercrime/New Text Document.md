@@ -1,0 +1,5 @@
+What surprised me most is the "industrialization" of cybercrime through Ransomware-as-a-Service (RaaS). In 2026, major ransomware groups operate like legitimate tech corporations—offering 24/7 help desks for victims, tiered subscription models for "affiliates," and even AI-powered tools that automate the entire attack chain. It is no longer just a lone hacker in a basement; it is a global, franchised economy where even low-skilled attackers can "rent" sophisticated malware to strike targets every few seconds.
+
+Another revelation was the shift to triple and quadruple extortion. Attackers don’t just lock your files anymore; they harass your contacts, launch DDoS attacks on your website, and use AI to create deepfake videos of executives to ruin reputations.
+
+As a result, the one habit I will personally change is moving beyond standard SMS-based two-factor authentication. Because "SIM-swapping" and AI-driven phishing have made SMS codes vulnerable, I will switch to using FIDO2 passkeys or hardware security keys for my primary "anchor" accounts like my email and bank.
